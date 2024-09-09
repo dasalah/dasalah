@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-Hi there! I'm Salah, a computer engineering student with a passion for open-source software and GNU/Linux operating systems. I'm currently learning the Rust programming language and I'm also working on a Telegram bot using Python. I have a strong interest in software development.<br><br>🐧 Fun fact: I use Arch btw🙂‍↔️ , and I find it absolutely fascinating!<br><br>💻 While I may not have extensive software development skills yet, I'm eager to dive into the world of open-source projects and contribute to the community. Specifically, I want to convert projects from C++ to Rust.<br><br>Feel free to reach out anytime; I'd love to chat or discuss potential projects! 🚀<br>
+Hi there! I'm Salah, a computer engineering student with a passion for open-source software and GNU/Linux operating systems. I'm currently learning the Rust programming language and I'm also working on a Telegram bot using Python. I have a strong interest in software development.<br><br>🐧 Fun fact: I use Arch btw , and I find it absolutely fascinating!<br><br>💻 While I may not have extensive software development skills yet, I'm eager to dive into the world of open-source projects and contribute to the community. Specifically, I want to convert projects from C++ to Rust.<br><br>Feel free to reach out anytime; I'd love to chat or discuss potential projects! 🚀<br>
 
 
 ## 🌐 Socials:
